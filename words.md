@@ -1,4 +1,4 @@
 jogger - челок, делающий пробежки  
 // todo добавить слова про деньги  
-postpone  
+postpone - откладывать  
 supposed to - должен
