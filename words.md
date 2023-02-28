@@ -1,4 +1,4 @@
-jogger - челок, делающий пробежки
-// todo добавить слова про деньги
-postpone
-supposed to
+jogger - челок, делающий пробежки  
+// todo добавить слова про деньги  
+postpone  
+supposed to  
