@@ -1,4 +1,4 @@
 # rules
 
-applogized beleved no continues (no "ing"s)
+applogized beleved no continues (no "ing"s)  
 в чем разница by the sea и by sea
