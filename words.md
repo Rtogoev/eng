@@ -4,6 +4,15 @@ postpone - откладывать
 supposed to - должен  
 gratification - удовлетворение
 jug - кувшин  
+barred  
+Swiss  
+election  
+slips  
+right slips  
+refloated  
+stalemate  
+bolsters revenue  
+hike  
   
 воспитание - upbringing  
 болеутоляющие - painkellier  
