@@ -13,6 +13,7 @@ refloated
 stalemate  
 bolsters revenue  
 hike  
+in demand - востребован  
   
 воспитание - upbringing  
 болеутоляющие - painkellier  
