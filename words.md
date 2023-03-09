@@ -2,7 +2,7 @@ jogger - челок, делающий пробежки
 // todo добавить слова про деньги  
 postpone - откладывать  
 supposed to - должен  
-gratification - удовлетворение
+gratification - удовлетворение  
 jug - кувшин  
 barred  
 Swiss  
@@ -14,8 +14,8 @@ stalemate
 bolsters revenue  
 hike  
 in demand - востребован  
-shrinking - уменьшение
-milestone - этап
+shrinking - уменьшение  
+milestone - этап  
 
 воспитание - upbringing  
 болеутоляющие - painkellier  
