@@ -17,6 +17,12 @@ in demand - востребован
 shrinking - уменьшение  
 milestone - этап  
 wobbly - шаткий
+anticipating - ожидание  
+setback  - неудача  
+slightly - немного, едва  
+slightly behind schedule - немного отставать от графика  
+suspend - приостановить  
+investigation - раследование  
 
 воспитание - upbringing  
 болеутоляющие - painkellier  
