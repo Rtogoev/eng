@@ -14,8 +14,8 @@ stalemate
 bolsters revenue  
 hike  
 in demand - востребован  
-  
+shrinking - уменьшение
+milestone - этап
+
 воспитание - upbringing  
 болеутоляющие - painkellier  
-  
-выучить 10000 слов на английском чтоли
