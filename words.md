@@ -16,6 +16,7 @@ hike
 in demand - востребован  
 shrinking - уменьшение  
 milestone - этап  
+wobbly - шаткий
 
 воспитание - upbringing  
 болеутоляющие - painkellier  
