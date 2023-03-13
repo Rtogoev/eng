@@ -23,6 +23,8 @@ slightly - немного, едва
 slightly behind schedule - немного отставать от графика  
 suspend - приостановить  
 investigation - раследование  
+seek - искать  
+lack - недостаток  
 
 воспитание - upbringing  
 болеутоляющие - painkellier  
